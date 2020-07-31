@@ -1,6 +1,6 @@
 # CS50x
 
-Repo for my "CS50's Introduction to Computer Science" course (on edx.org) solutions.
+Repo for my "CS50's Introduction to Computer Science" course (https://www.edx.org/course/cs50s-introduction-to-computer-science) solutions.
 
 ## Week 0
 Implement any project of your choice in <a href="https://scratch.mit.edu/">Scratch</a>, be it an interactive story, game, animation, or anything else, subject only to the following requirements:
